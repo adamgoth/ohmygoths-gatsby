@@ -5,7 +5,7 @@ const Header = () => (
   <header>
     <Helmet>
       <link
-        href="https://fonts.googleapis.com/css?family=Muli"
+        href="https://fonts.googleapis.com/css?family=Shadows+Into+Light"
         rel="stylesheet"
       />
     </Helmet>
