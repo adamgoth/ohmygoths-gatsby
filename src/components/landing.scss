@@ -7,12 +7,21 @@
   padding: 0 20px;
 
   &-image {
-    margin-top: 100px;
+    margin-top: 30px;
   }
 
   &-desc {
-    margin: 15px 0 10px 0;
+    margin: 5px 0;
     font-size: 36px;
     color: rgb(59, 53, 143);
+    font-family: "Shadows Into Light", cursive;
+    padding-bottom: 20px;
+    border-bottom: solid 1px lightgray;
+  }
+
+  &-postContainer {
+    padding: 0 20px;
+    max-width: 760px;
+    margin: 0 auto;
   }
 }
